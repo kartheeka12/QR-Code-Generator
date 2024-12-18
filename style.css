@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(3, 117, 132);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box {
+    width: 36%;
+    height: 80vh;
+    background-color: antiquewhite;
+    border: 2px solid white;
+    border-radius: 6px;
+    margin-left: 32%;
+    margin-top: 10vh;
+}
+.i {
+    width: 400px;
+    height: 35px;
+    margin-left: 15px;
+    margin-top: 10px;
+    border-radius: 4px;
+    border: 2px solid rgb(101, 99, 99);
+}
+.b {
+    margin-top: 20px;
+    height: 35px;
+    width: 400px;
+    margin-left: 15px;
+    background-color: rgb(3, 117, 132);
+    color: aliceblue;
+    border: 2px solid rgb(3, 117, 132);
+    border-radius: 4px;
+}
+.pic {
+    margin-top: 50px;
+    border: 1px solid rgb(113, 111, 111);
+    padding: 20px 90px;
+    width: 250px;
+    height: 200px;
+    margin-left: 65px;
+}
+#id{
+    padding-top: 25px;
+}
